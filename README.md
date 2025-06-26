@@ -1,6 +1,6 @@
-# Code Block
+# CodingLegos
 
-**Code Block** is an online compiler for frontend development with HTML, CSS, and Vanilla JavaScript. It simplifies the process by eliminating the need to create new files and folders for each project. Users can save and share their code, and explore code saved by other users.
+**CodingLegos** is an online compiler for frontend development with HTML, CSS, and Vanilla JavaScript. It simplifies the process by eliminating the need to create new files and folders for each project. Users can save and share their code, and explore code saved by other users.
 
 **Tech Stack**:  
 - **Frontend**: React, TypeScript, Tailwind CSS, Redux Toolkit, Shadcn
@@ -14,11 +14,11 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tanay0209/code-block.git
+   git clone https://github.com/lakshyabhatnagar/CodingLegos
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd code-block
+   cd codingLegos
    ```
 3. **Install Client dependencies:**
    ```bash
@@ -97,5 +97,3 @@ Available API endpoints:
    curl http://localhost:3000/user/login
    ```
 ---
-
-# CodingLegos
